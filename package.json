@@ -2,7 +2,7 @@
   "name": "tandoori-js",
   "version": "1.0.0",
   "description": "TandooriJs is a food ordering application made using powers of React.js",
-  "type": "module"
+  "type": "module",
   "scripts": {
     "start": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html"
