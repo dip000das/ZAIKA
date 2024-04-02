@@ -1,5 +1,4 @@
 # ZAIKA - Reacting to Your Hunger, One Byte at a Time! 😋
-I don't think someone would've added this many details to the Swiggy clone during #NamasteReact NamasteDev.com check it out!!😎 don't worry no AI post...
 
 
 
@@ -67,5 +66,5 @@ currently working on the react-router-dom part of it...
 
 #Some #Non #Related #Stuff #For #Post #Reach 😅
 
-#WebDevelopment #ReactJS #TailwindCSS #SwiggyClone #Namaste #AkshaySaini 
+#WebDevelopment #ReactJS #TailwindCSS #SwiggyClone 
 # ZAIKA
