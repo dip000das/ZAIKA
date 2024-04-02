@@ -1,5 +1,4 @@
-# Tandoori Js - Reacting to Your Hunger, One Byte at a Time! 😋
-I don't think someone would've added this many details to the Swiggy clone during #NamasteReact NamasteDev.com check it out!!😎 don't worry no AI post...
+# ZAIKA - Reacting to Your Hunger, One Byte at a Time! 😋
 
 
 
@@ -7,7 +6,7 @@ I don't think someone would've added this many details to the Swiggy clone durin
 
 ZAIKA is a food ordering platform made using the combined powers of Parcel bundler + React.js + Tailwind CSS.
 
-yup, Parcel is the Beast lol 😂 have a look at this Akshay Saini 🚀
+
 
 currently working on the react-router-dom part of it...
 
@@ -47,7 +46,7 @@ currently working on the react-router-dom part of it...
 
 ### ⭐⭐⭐ Try to give a star please if you following my repo or liked it 🙏🏻
 
- Also, I'm ready to help you if you've any doubts do ask I'll try my best 😊 and thanks to Arvind Pandit Prajapati for helping me for carousel logic 
+ Also, I'm ready to help you if you've any doubts do ask I'll try my best.
 
 
 
@@ -67,5 +66,5 @@ currently working on the react-router-dom part of it...
 
 #Some #Non #Related #Stuff #For #Post #Reach 😅
 
-#WebDevelopment #ReactJS #TailwindCSS #SwiggyClone #Namaste #AkshaySaini 
+#WebDevelopment #ReactJS #TailwindCSS #SwiggyClone 
 # ZAIKA
