@@ -2,6 +2,7 @@
   "name": "tandoori-js",
   "version": "1.0.0",
   "description": "TandooriJs is a food ordering application made using powers of React.js",
+  "type": "module",
   "scripts": {
     "start": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html"
@@ -15,7 +16,7 @@
     "Swiggy",
     "clone"
   ],
-  "author": "Kiran Mahajan",
+  "author": "Dip",
   "license": "ISC",
   "devDependencies": {
     "@parcel/packager-raw-url": "^2.11.0",
